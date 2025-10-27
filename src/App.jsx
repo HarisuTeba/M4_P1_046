@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import HitungDiskon from './components/hitungdiskon.jsx'
+import HitungDiskon from './components/Hitungdiskon.jsx'
 import HitungDiskon2 from './components/hitungDiskon2.jsx'
 
 function App() {
